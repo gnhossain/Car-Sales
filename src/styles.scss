@@ -2,7 +2,7 @@ html, body, #root {
   height: 100%;
 }
 body {
-  background: #333;
+  background:slategray;
   margin: 0;
   display: grid;
   padding: 3em;
@@ -17,8 +17,8 @@ body {
 .box {
   display: flex;
   flex-direction: column;
-  min-height: 90%;
-  max-height: 90%;
+  min-height: 94%;
+  max-height: 94%;
   
 
   h1 {
